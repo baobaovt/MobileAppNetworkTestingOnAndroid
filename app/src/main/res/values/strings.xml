@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OkHTTP</string>
+    <string name="OKHTTP">OKHTTP</string>
+    <string name="SOCKETS">SOCKETS</string>
+    <string name="FIREBASE">FIREBASE</string>
+    <string name="HTTP">HTTP</string>
+    <string name="SharedPreferences">SharedPreferences</string>
+    <string name="SQLITE">SQLITE</string>
+
+
+</resources>
